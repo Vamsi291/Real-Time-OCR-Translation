@@ -32,3 +32,8 @@ Most common resolution is 1920 x 1080 (width x height).
 
 
 4. Type in the window handle that you wish to perform OCR and translation.
+
+
+VIDEO EXAMPLE
+
+https://user-images.githubusercontent.com/56387677/126067842-05d8d4f6-6677-43b8-8458-b22aeda81579.mp4
